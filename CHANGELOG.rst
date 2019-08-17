@@ -2,6 +2,15 @@
 Changelog for package jderobot_assets
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.0 (2019-08-18)
+------------------
+* updated perspective
+* added mouse and world
+* removed iris model from world file
+* removed plugins
+* added drone_hangar
+* Contributors: Nikhil Khedekar
+
 0.0.2 (2019-08-02)
 ------------------
 * updated dependancies
