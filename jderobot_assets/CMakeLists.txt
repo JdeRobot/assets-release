@@ -5,6 +5,9 @@ find_package(catkin REQUIRED COMPONENTS
   turtlebot3_description
   turtlebot3_gazebo
 )
+
+find_package(gazebo REQUIRED)
+
 catkin_package()
 
 install(DIRECTORY models worlds perspectives urdf
