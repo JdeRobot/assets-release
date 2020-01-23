@@ -1,0 +1,12 @@
+Source: ros-melodic-jderobot-assets
+Section: misc
+Priority: optional
+Maintainer: Nikhil Khedekar <nikhilvkhedekar@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-catkin, ros-melodic-gazebo-ros, ros-melodic-roscpp, ros-melodic-turtlebot3-description, ros-melodic-turtlebot3-gazebo
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-melodic-jderobot-assets
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-gazebo-ros, ros-melodic-roscpp, ros-melodic-turtlebot3-description, ros-melodic-turtlebot3-gazebo
+Description: The jderobot_assets package
