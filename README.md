@@ -1,3 +1,26 @@
+## jderobot_assets (melodic) - 1.0.0-1
+
+The packages in the `jderobot_assets` repository were released into the `melodic` distro by running `/usr/bin/bloom-release --rosdistro melodic --track melodic jderobot_assets --edit` on `Fri, 14 Feb 2020 20:21:35 -0000`
+
+The `jderobot_assets` package was released.
+
+Version of package(s) in repository `jderobot_assets`:
+
+- upstream repository: https://github.com/JdeRobot/assets.git
+- release repository: https://github.com/JdeRobot/assets-release.git
+- rosdistro version: `0.1.0-1`
+- old version: `0.1.0-1`
+- new version: `1.0.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.0`
+- catkin_pkg version: `0.4.12`
+- rosdep version: `0.18.0`
+- rosdistro version: `0.8.0`
+- vcstools version: `0.1.42`
+
+
 ## jderobot_assets (melodic) - 0.1.0-1
 
 The packages in the `jderobot_assets` repository were released into the `melodic` distro by running `/usr/bin/bloom-release jderobot_assets --track melodic --rosdistro melodic --new-track` on `Thu, 23 Jan 2020 11:40:35 -0000`
