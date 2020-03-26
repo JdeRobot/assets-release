@@ -1,0 +1,12 @@
+Source: ros-kinetic-jderobot-assets
+Section: misc
+Priority: optional
+Maintainer: Nikhil Khedekar <nikhilvkhedekar@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-jderobot-assets
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, 
+Description: The jderobot_assets package
