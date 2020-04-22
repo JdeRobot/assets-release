@@ -2,6 +2,11 @@
 Changelog for package jderobot_assets
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.0.2 (2020-04-22)
+------------------
+* Added models needed for drone-gymkhana exercise
+* Contributors: Pedro Arias
+
 1.0.1 (2020-03-25)
 ------------------
 * Fix build fail in Debian stretch for ros melodic
