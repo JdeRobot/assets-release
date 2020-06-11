@@ -1,6 +1,12 @@
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Changelog for package jderobot_assets
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+1.1.0 (2020-06-11)
+------------------
+* Set noetic version
+* Minor changes on README
+* Contributors: Shreyas Gokhale, pariaspe
+
 1.0.3 (2020-06-01)
 ------------------
 * Added ROS Noetic Release 
