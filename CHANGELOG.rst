@@ -2,6 +2,16 @@
 Changelog for package jderobot_assets
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.0.4 (2020-06-10)
+------------------
+* Launching turtlebot line follower fix
+* Fixed turtlebot3 line following
+* Added perspectives.
+* Update car_1_junction.world
+* Create f1_1_circuit.launch
+* Update kobuki_1_reconstruccion3d.world
+* Contributors: JoseMaria Cañas, Sakshay Mahna, Shreyas Gokhale, pariaspe
+
 1.0.2 (2020-04-22)
 ------------------
 * Added models needed for drone-gymkhana exercise
