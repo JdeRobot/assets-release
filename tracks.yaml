@@ -46,7 +46,7 @@ tracks:
     ros_distro: melodic
     vcs_type: git
     vcs_uri: https://github.com/JdeRobot/assets.git
-    version: :{auto}
+    version: :{ask}
   noetic:
     actions:
     - bloom-export-upstream :{vcs_local_uri} :{vcs_type} --tag :{release_tag} --display-uri
